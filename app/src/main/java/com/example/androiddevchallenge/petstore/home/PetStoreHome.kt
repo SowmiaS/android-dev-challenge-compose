@@ -24,78 +24,52 @@ fun PetStoreHomeUI() {
 
 @SuppressLint("RestrictedApi")
 @Composable
-fun PetStoreAppBar(){
+fun PetStoreAppBar() {
     TopAppBar(backgroundColor = Color(Color.White.value)) {
-        Spacer(modifier = Modifier.width(50.dp))
         Row(
-            modifier = Modifier.fillMaxWidth(),
-            horizontalArrangement = Arrangement.SpaceBetween
+            modifier = Modifier.fillMaxWidth().padding(50.dp,0.dp,50.dp,0.dp),
+            horizontalArrangement = Arrangement.SpaceBetween,
+            verticalAlignment = Alignment.CenterVertically
         ) {
 
-            Image(painter = painterResource(id = R.drawable.ic_menu),
+            Image(
+                painter = painterResource(id = R.drawable.ic_menu),
                 contentDescription = "menu is",
-                modifier = Modifier.alignByBaseline(),
-                alignment = Alignment.Center)
+                alignment = Alignment.Center
+            )
 
-            Row(modifier = Modifier.wrapContentSize()){
-            Image(painter = painterResource(id = R.drawable.ic_location),
-                contentDescription = "current location is",
-                modifier = Modifier.alignByBaseline())
-            Text(text = "Zurich,CH",
-                modifier = Modifier
-                    .alignByBaseline()
-                    .align(Alignment.Bottom),
-                color = Color.Black)
-            Image(painter = painterResource(id = R.drawable.ic_down_arrow),
-                contentDescription = "current location is",
-                modifier = Modifier.alignByBaseline())
+            Row(modifier = Modifier.wrapContentSize(),
+            ) {
+                Image(
+                    painter = painterResource(id = R.drawable.ic_location),
+                    contentDescription = "current location is",
+                    modifier = Modifier
+                        .align(Alignment.Bottom)
+                )
+                Text(
+                    text = "Zurich,CH",
+                    modifier = Modifier
+                        .align(Alignment.Bottom),
+                    color = Color.Black
+                )
+                Image(
+                    painter = painterResource(id = R.drawable.ic_down_arrow),
+                    contentDescription = "current location is"
+                )
             }
-            Image(painter = painterResource(id = R.drawable.ic_action_name),
+            Image(
+                painter = painterResource(id = R.drawable.ic_action_name),
                 contentDescription = "current location is",
                 modifier = Modifier
                     .alignByBaseline()
                     .size(30.dp),
-                alignment = Alignment.BottomEnd)
+                alignment = Alignment.BottomEnd
+            )
+
         }
-        Spacer(modifier = Modifier.width(50.dp))
 
     }
 
-//     Image(
-//        painter = painterResource(id = R.drawable.ic_launcher_background),
-//        contentDescription = "menu",
-//        modifier = Modifier.height(height = 10.dp),
-//        alignment = Alignment.Center,
-//        contentScale  = ContentScale.Fit,
-//        alpha = DefaultAlpha,
-//        colorFilter = null
-//    )
-//
-//
-//    Image(
-//        painter = painterResource(id = R.drawable.ic_launcher_background),
-//        contentDescription = "menu",
-//        modifier = Modifier.height(height = 10.dp),
-//        alignment = Alignment.Center,
-//        contentScale  = ContentScale.Fit,
-//        alpha = DefaultAlpha,
-//        colorFilter = null
-//    )
-//
-//    Text(text = "Zurich,CH",
-//    color = Color.Black)
-//
-//    Image(painter = painterResource(id = R.id.dragDown), contentDescription = "")
-//
-//    Image(
-//        painter = painterResource(id = R.drawable.ic_launcher_background),
-//        contentDescription = "menu",
-//        modifier = Modifier.height(height = 10.dp),
-//        alignment = Alignment.Center,
-//        contentScale  = ContentScale.Fit,
-//        alpha = DefaultAlpha,
-//        colorFilter = null
-//    )
 
 }
 
