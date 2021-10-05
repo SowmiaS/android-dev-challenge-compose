@@ -1,0 +1,129 @@
+{
+  "petslist": [
+    {
+      "petname" : "Rocky",
+      "price": "200",
+      "currency": "USD",
+      "distance": "2km",
+      "petcategory": "DOGS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+    },
+    {
+      "petname" : "Ruger",
+      "price": "200",
+      "currency": "USD",
+      "distance": "2km",
+      "petcategory": "DOGS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+
+    },
+    {
+      "petname" : "Tiger",
+      "price": "900",
+      "currency": "USD",
+      "distance": "1km",
+      "petcategory": "DOGS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+
+    },
+    {
+      "petname" : "Jimmy",
+      "price": "20",
+      "currency": "USD",
+      "distance": "7km",
+      "petcategory": "DOGS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+
+    },
+    {
+      "petname" : "Whity",
+      "price": "10",
+      "currency": "USD",
+      "distance": "20km",
+      "petcategory": "CATS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+
+    },
+    {
+      "petname" : "GreyGirl",
+      "price": "60",
+      "currency": "USD",
+      "distance": "1km",
+      "petcategory": "CATS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+
+    },
+    {
+      "petname" : "Rosy",
+      "price": "20",
+      "currency": "USD",
+      "distance": "21km",
+      "petcategory": "CATS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+
+    },
+    {
+      "petname" : "Pecu",
+      "price": "2000",
+      "currency": "USD",
+      "distance": "2km",
+      "petcategory": "BIRDS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+
+    },
+    {
+      "petname" : "Spar",
+      "price": "2700",
+      "currency": "USD",
+      "distance": "21km",
+      "petcategory": "BIRDS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+
+    },
+    {
+      "petname" : "Spar",
+      "price": "2700",
+      "currency": "USD",
+      "distance": "21km",
+      "petcategory": "BIRDS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+
+    },
+    {
+      "petname" : "Spar",
+      "price": "2700",
+      "currency": "USD",
+      "distance": "21km",
+      "petcategory": "BIRDS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+
+    },
+    {
+      "petname" : "Spar",
+      "price": "2700",
+      "currency": "USD",
+      "distance": "21km",
+      "petcategory": "BIRDS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+
+    },
+    {
+      "petname" : "Spar",
+      "price": "2700",
+      "currency": "USD",
+      "distance": "21km",
+      "petcategory": "BIRDS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+
+    },
+    {
+      "petname" : "Spar",
+      "price": "2700",
+      "currency": "USD",
+      "distance": "21km",
+      "petcategory": "BIRDS",
+      "petpicture": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3B1Zy5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQwMH0sInRvRm9ybWF0IjoiYXZpZiJ9fQ=="
+
+    }
+  ]
+}
