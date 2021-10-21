@@ -10,4 +10,13 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+    <string name="label_home_tv_find_your_new_pet">Find your new pet</string>
+    <string name="label_home_tf_hint_search">Search</string>
+    <string name="label_home_tv_categories">Categories</string>
+    <string name="label_home_tv_category_dogs">Dogs</string>
+    <string name="label_home_tv_category_cats">Cats</string>
+    <string name="label_home_tv_category_birds">Birds</string>
+
+
+
 </resources>
